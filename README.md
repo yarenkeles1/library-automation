@@ -10,6 +10,7 @@ This project aims to develop a library automation management system.System; It a
 -A linked list data structure has been used to track overdue books. The linked list allows overdue books to be dynamically added and removed, facilitating easy management. This structure enables quick identification of overdue books and the execution of necessary actions.
 
 People who also contributed to this project:
+
 Sıla AÇIŞ- https://github.com/silaacis
 
 Elif Sude YILMAZ- https://github.com/elifsudeyilmaz
