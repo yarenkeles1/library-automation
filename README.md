@@ -8,3 +8,7 @@ This project aims to develop a library automation management system.System; It a
 -A queue data structure has been used to track borrowed books. The queue structure operates on the first in, first out principle, organizing the sequence of book borrowing transactions.
 
 -A linked list data structure has been used to track overdue books. The linked list allows overdue books to be dynamically added and removed, facilitating easy management. This structure enables quick identification of overdue books and the execution of necessary actions.
+
+People who contributed to this project:
+Sıla AÇIŞ- https://github.com/silaacis
+Elif Sude YILMAZ- https://github.com/elifsudeyilmaz
