@@ -1,4 +1,4 @@
-# library-automation
+# simple library-automation
 This project aims to develop a library automation management system.System; It allows adding books and viewing the book list, keeping track of members, and managing book borrowing transactions effectively and regularly.The main components of the project and the data structures used are summarized below:
 
 -A tree data structure has been used for adding and managing books. The tree structure enables fast addition and display of books. Particularly in large datasets, it efficiently performs search and sorting operations, ensuring users easy access to books.
